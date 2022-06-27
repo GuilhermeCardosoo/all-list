@@ -1,0 +1,240 @@
+CRITICAL - 2022-06-03 09:47:59 --> Class 'Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:48:25 --> Class 'Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:48:52 --> Class 'Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:21 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:22 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:32 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:32 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:33 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:33 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:33 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:33 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:33 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:34 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:34 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:34 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:46 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:47 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:50:47 --> Class 'App\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:53:42 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:53:42 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:53:42 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:53:43 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 09:53:43 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:05:08 --> Class 'app\Libraries\Venda\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:06:21 --> Class 'App\Libraries\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:06:33 --> Class 'App\Libraries\Loja\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:06:50 --> Class 'App\Libraries\Venda' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:01 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:01 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:11 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:12 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:12 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:12 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:12 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-03 10:08:12 --> Class 'App\Libraries\Loja\Ze' not found
+#0 C:\wamp\www\felipe\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\wamp\www\felipe\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp\www\felipe\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp\www\felipe\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

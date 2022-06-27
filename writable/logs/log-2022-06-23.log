@@ -1,0 +1,658 @@
+CRITICAL - 2022-06-23 08:13:52 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:16:16 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:16:24 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:16:30 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:35 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:36 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:36 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:36 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:36 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:37 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:37 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:37 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:37 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:17:39 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:25:14 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:25:15 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-23 08:25:19 --> Undefined variable: job
+#0 C:\wamp\www\ativ\app\Views\editJob.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 25, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('editJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(70): view('editJob', Array)
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('6')
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-23 08:42:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+CRITICAL - 2022-06-23 08:42:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:54:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+CRITICAL - 2022-06-23 08:54:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:54:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+CRITICAL - 2022-06-23 08:54:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=NULL' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:54:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+CRITICAL - 2022-06-23 08:54:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:54:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+CRITICAL - 2022-06-23 08:54:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:57:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+CRITICAL - 2022-06-23 08:57:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob=''' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:57:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+CRITICAL - 2022-06-23 08:57:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:59:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+CRITICAL - 2022-06-23 08:59:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 08:59:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+CRITICAL - 2022-06-23 08:59:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob='6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:12:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob= '6'' at line 4
+CRITICAL - 2022-06-23 09:12:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob= '6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:12:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+CRITICAL - 2022-06-23 09:12:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:13:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+CRITICAL - 2022-06-23 09:13:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:14:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+CRITICAL - 2022-06-23 09:14:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '6'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:14:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '7'' at line 4
+CRITICAL - 2022-06-23 09:14:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '7'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:16:13 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:16:13 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:19:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:19:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:19:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:19:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:21:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:21:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:23:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:23:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:23:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+CRITICAL - 2022-06-23 09:23:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '8'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 09:23:56 --> Undefined offset: 0
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp\\www\\ati...', 69, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob('8')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 09:23:56 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-06-23 09:24:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+CRITICAL - 2022-06-23 09:24:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 09:31:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+CRITICAL - 2022-06-23 09:31:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 10:10:29 --> syntax error, unexpected 'desgnção' (T_STRING)
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('main/editJobSub...')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('main/editJobSub...')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-23 10:10:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+CRITICAL - 2022-06-23 10:10:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:10:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+CRITICAL - 2022-06-23 10:10:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:11:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+CRITICAL - 2022-06-23 10:11:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '<?$job->idJob?>'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n          UPDA...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n          UPDA...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n          UPDA...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n          UPDA...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:19:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+        WHERE idJob = '3'' at line 3
+CRITICAL - 2022-06-23 10:19:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+        WHERE idJob = '3'' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n        UPDATE...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n        UPDATE...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n        UPDATE...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n        UPDATE...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:20:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+            WHERE idJob = '3'' at line 3
+CRITICAL - 2022-06-23 10:20:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+            WHERE idJob = '3'' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:21:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),' at line 3
+CRITICAL - 2022-06-23 10:21:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:22:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),' at line 3
+CRITICAL - 2022-06-23 10:22:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:24:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+CRITICAL - 2022-06-23 10:24:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 10:59:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+CRITICAL - 2022-06-23 10:59:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 11:00:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+CRITICAL - 2022-06-23 11:00:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 11:02:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()
+            WHERE idJob = '1'' at line 3
+CRITICAL - 2022-06-23 11:02:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW()
+            WHERE idJob = '1'' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(82): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-23 11:05:38 --> Undefined offset: 0
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp\\www\\ati...', 69, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJob()
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-23 11:05:38 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-06-23 11:40:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+            WHERE idJob = '5'' at line 3
+CRITICAL - 2022-06-23 11:40:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dateTimeUpdated = NOW(),
+            WHERE idJob = '5'' at line 3
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 11:42:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+CRITICAL - 2022-06-23 11:42:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '5'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 11:55:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '1'' at line 4
+CRITICAL - 2022-06-23 11:55:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '1'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 11:58:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = :idJobi:' at line 4
+CRITICAL - 2022-06-23 11:58:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = :idJobi:' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-23 12:00:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '1'' at line 4
+CRITICAL - 2022-06-23 12:00:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE idJob = '1'' at line 4
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('\n            UP...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\n            UP...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\n            UP...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(80): CodeIgniter\Database\BaseConnection->query('\n            UP...', Array)
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->editJobSubmit()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

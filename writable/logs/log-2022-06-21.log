@@ -1,0 +1,458 @@
+CRITICAL - 2022-06-21 09:47:06 --> Invalid file: newJob.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('newJob.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('newJob', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('newJob')
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 09:47:12 --> Invalid file: newJob.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('newJob.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('newJob', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('newJob')
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 09:47:39 --> Undefined variable: jobs
+#0 C:\wamp\www\ativ\app\Views\Layouts\newJob.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 17, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('Layouts/newJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('Layouts/newJob')
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-21 09:47:58 --> Undefined variable: jobs
+#0 C:\wamp\www\ativ\app\Views\Layouts\newJob.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 17, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('Layouts/newJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('Layouts/newJob')
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-21 09:48:12 --> Invalid file: newJob.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('newJob.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('newJob', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('newJob')
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 09:48:44 --> Undefined variable: jobs
+#0 C:\wamp\www\ativ\app\Views\Layouts\newJob.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp\\www\\ati...', 17, Array)
+#1 C:\wamp\www\ativ\system\View\View.php(210): include('C:\\wamp\\www\\ati...')
+#2 C:\wamp\www\ativ\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('Layouts\\newJob', Array, true)
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(19): view('Layouts\\newJob')
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->newJob()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-21 11:32:32 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:25 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:25 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:26 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:26 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:26 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:41:26 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:44:42 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:44:42 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:44:43 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:44:43 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:15 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:15 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:16 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:16 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:16 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:16 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 11:58:16 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(14): view('login', Array)
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-21 12:19:33 --> syntax error, unexpected '}'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:19:38 --> syntax error, unexpected '}'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+CRITICAL - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM j...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM j...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM j...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(53): CodeIgniter\Database\BaseConnection->query('SELECT * FROM j...')
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(11): App\Controllers\Main->getAllJobs()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+CRITICAL - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM j...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM j...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM j...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(53): CodeIgniter\Database\BaseConnection->query('SELECT * FROM j...')
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(11): App\Controllers\Main->getAllJobs()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+CRITICAL - 2022-06-21 12:19:39 --> Table 'matrix.jobs' doesn't exist
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM j...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM j...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM j...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(53): CodeIgniter\Database\BaseConnection->query('SELECT * FROM j...')
+#4 C:\wamp\www\ativ\app\Controllers\Main.php(11): App\Controllers\Main->getAllJobs()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-21 12:20:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:20:18 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:20:19 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:20:19 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:20:19 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:20:43 --> syntax error, unexpected '}', expecting ';' or '{'
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:21:36 --> Invalid file: login.php
+#0 C:\wamp\www\ativ\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\wamp\www\ativ\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\wamp\www\ativ\app\Controllers\Main.php(42): view('login')
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-06-21 12:41:54 --> Unknown column 'senha' in 'where clause'
+CRITICAL - 2022-06-21 12:41:54 --> Unknown column 'senha' in 'where clause'
+#0 C:\wamp\www\ativ\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM l...', 0)
+#1 C:\wamp\www\ativ\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM l...')
+#2 C:\wamp\www\ativ\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM l...')
+#3 C:\wamp\www\ativ\app\Controllers\Main.php(48): CodeIgniter\Database\BaseConnection->query('SELECT * FROM l...')
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#5 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-21 12:42:34 --> mysqli_num_rows() expects parameter 1 to be mysqli_result, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_num_rows...', 'C:\\wamp\\www\\ati...', 51, Array)
+#1 C:\wamp\www\ativ\app\Controllers\Main.php(51): mysqli_num_rows(Object(CodeIgniter\Database\MySQLi\Result))
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#4 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-21 12:42:34 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-21 12:48:03 --> syntax error, unexpected 'private' (T_PRIVATE)
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('main/logIN')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('main/logIN')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:49:58 --> syntax error, unexpected 'private' (T_PRIVATE)
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('main/logIN')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('main/logIN')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:50:24 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('main/logIN')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('main/logIN')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:56:08 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$num_rows
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp\\www\\ati...', 52, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:56:08 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-21 12:57:21 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\wamp\www\ativ\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('main/logIN')
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('main/logIN')
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:57:56 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$num_rows
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp\\www\\ati...', 50, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:57:56 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-21 12:59:11 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$num_rows
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp\\www\\ati...', 50, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:59:11 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-21 12:59:30 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$num_rows
+#0 C:\wamp\www\ativ\app\Controllers\Main.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp\\www\\ati...', 50, Array)
+#1 C:\wamp\www\ativ\system\CodeIgniter.php(832): App\Controllers\Main->logIN()
+#2 C:\wamp\www\ativ\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp\www\ativ\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp\www\ativ\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-21 12:59:30 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\wamp\www\ativ\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\wamp\\www\\ati...', 96, Array)
+#1 C:\wamp\www\ativ\app\Views\errors\html\error_exception.php(96): print_r(Array, true)
+#2 C:\wamp\www\ativ\system\Debug\Exceptions.php(234): include('C:\\wamp\\www\\ati...')
+#3 C:\wamp\www\ativ\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\wamp\www\ativ\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(ErrorException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
